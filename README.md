@@ -52,6 +52,7 @@ lobby-pitch: 0.0
 
 pointbuy-cost: 12000.0
 initial-points: 4
+```
 
 # TPM 传送点管理插件 使用教程
 
